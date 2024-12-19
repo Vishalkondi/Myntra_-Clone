@@ -1,7 +1,9 @@
 Myntra Clone
 A fully responsive Myntra Clone built using HTML, CSS, and JavaScript. This project mimics the design and functionality of the popular Myntra e-commerce platform, allowing users to browse products, add them to their cart, and enjoy a shopping experience in the browser.
 
-<!-- Replace this with the actual screenshot path -->
+<!-- Replace this with the actual screenshot path -->  
+![Screenshot (27)](https://github.com/user-attachments/assets/3dc36970-cdaa-4776-a3aa-e3f33bea6cdb)
+
 
 Table of Contents
 Features
